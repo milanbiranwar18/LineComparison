@@ -3,5 +3,6 @@ using LineComparison;
 
 Console.WriteLine("Wellcome to Line Comparison Problem");
 
-LineComparisonProblem.LineComparisonUC1();
-LineComparisonUC2.LinComparison_UC2();
+//LineComparisonProblem.LineComparisonUC1();
+//LineComparisonUC2.LinComparison_UC2();
+LineComparisonUC.LineComparisonUC4();
